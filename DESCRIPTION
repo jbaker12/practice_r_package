@@ -1,0 +1,10 @@
+Package: tempconv
+Type: Package
+Title: Convert Between Celsius and Fahrenheit
+Version: 0.1.0
+Authors@R: person("Jake", "Baker", email = "jjbaker321@gmail.com", role = c("aut", "cre"))
+Description: Two small helpers to convert temperatures between Celsius
+    and Fahrenheit.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
